@@ -10,7 +10,7 @@
         /* For Firefox 3.6 to 15 */
         background: linear-gradient(#E29587, white);
         /* Standard syntax */
-        background: linear-gradient(white, gray);
+        background: linear-gradient(white, white);
         padding: 0px;
     }
     
